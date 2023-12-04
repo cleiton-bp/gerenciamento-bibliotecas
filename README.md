@@ -3,6 +3,11 @@
 ## Descrição
 Este projeto em C# implementa um sistema de gerenciamento de biblioteca, demonstrando conceitos fundamentais de Programação Orientada a Objetos (POO). As principais classes do projeto são `Base`, `Biblioteca`, `ItemBiblioteca`, e `Livro`. O código segue as convenções de nomenclatura e estilo de código em C# e está comentado para facilitar a compreensão.
 
+### 👇 Link para explicação do código.
+<a href="https://www.youtube.com/watch?v=9udYGGvU-Ik" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=You Tube&logo=youtube&label=&color=c4302b&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="whatsapp logo"  />
+</a>
+
 ## Classes
 
 ### Classe Base
