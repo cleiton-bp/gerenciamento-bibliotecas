@@ -1,4 +1,4 @@
-# Projeto de Gerenciamento de Biblioteca em C#
+# Gerenciamento de Biblioteca em C#
 
 ## Descrição
 Este projeto em C# implementa um sistema de gerenciamento de biblioteca, demonstrando conceitos fundamentais de Programação Orientada a Objetos (POO). As principais classes do projeto são `Base`, `Biblioteca`, `ItemBiblioteca`, e `Livro`. O código segue as convenções de nomenclatura e estilo de código em C# e está comentado para facilitar a compreensão.
