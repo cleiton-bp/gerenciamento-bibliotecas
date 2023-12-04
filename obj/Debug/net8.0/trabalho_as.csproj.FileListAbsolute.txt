@@ -1,0 +1,14 @@
+C:\ads\lp\trabalho_as\bin\Debug\net8.0\trabalho_as.exe
+C:\ads\lp\trabalho_as\bin\Debug\net8.0\trabalho_as.deps.json
+C:\ads\lp\trabalho_as\bin\Debug\net8.0\trabalho_as.runtimeconfig.json
+C:\ads\lp\trabalho_as\bin\Debug\net8.0\trabalho_as.dll
+C:\ads\lp\trabalho_as\bin\Debug\net8.0\trabalho_as.pdb
+C:\ads\lp\trabalho_as\obj\Debug\net8.0\trabalho_as.GeneratedMSBuildEditorConfig.editorconfig
+C:\ads\lp\trabalho_as\obj\Debug\net8.0\trabalho_as.AssemblyInfoInputs.cache
+C:\ads\lp\trabalho_as\obj\Debug\net8.0\trabalho_as.AssemblyInfo.cs
+C:\ads\lp\trabalho_as\obj\Debug\net8.0\trabalho_as.csproj.CoreCompileInputs.cache
+C:\ads\lp\trabalho_as\obj\Debug\net8.0\trabalho_as.dll
+C:\ads\lp\trabalho_as\obj\Debug\net8.0\refint\trabalho_as.dll
+C:\ads\lp\trabalho_as\obj\Debug\net8.0\trabalho_as.pdb
+C:\ads\lp\trabalho_as\obj\Debug\net8.0\trabalho_as.genruntimeconfig.cache
+C:\ads\lp\trabalho_as\obj\Debug\net8.0\ref\trabalho_as.dll
